@@ -1,1 +1,1 @@
-alert("Stolen access token: " + sessionStorage.getItem('accessToken'))
+alert("Stolen access tokens: " + sessionStorage.getItem('accessToken'))
